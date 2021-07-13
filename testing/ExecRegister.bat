@@ -1,0 +1,1 @@
+"C:\Program Files\Git\mingw64\bin\curl.exe" -H "Content-Type:application/json" -d "@./ExecRegister.json" localhost:3010/SudokuScores/register

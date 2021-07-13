@@ -1,0 +1,33 @@
+{
+  "Credentials": {
+    "Version": 1,
+    "UserID": 0,
+    "UserName": "Fred_37",
+    "Token": "",
+    "Hash": "" },
+  "Local": {
+    "Easy": {
+      "Level": "Easy",
+      "Hint": {
+        "Games": 1,
+        "Fastest": 15,
+        "TotalTime": 15,
+        "TimedOut": 0 },
+      "Clean": {
+        "Games": 2,
+        "Fastest": 6,
+        "TotalTime": 14,
+        "TimedOut": 1 } },
+    "Medium": {
+      "Level": "Easy",
+      "Hint": {
+        "Games": 10,
+        "Fastest": 15,
+        "TotalTime": 250,
+        "TimedOut": 0 },
+      "Clean": {
+        "Games": 11,
+        "Fastest": 25,
+        "TotalTime": 505,
+        "TimedOut": 2 } } }
+}
