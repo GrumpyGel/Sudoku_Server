@@ -59,7 +59,7 @@ Written in Node.JS using RESTful API calls from the Sudoku_Client with cryptogra
 
 Designed to run on Windows Server under IIS using a SQL Server database. Unlike the client, which runs asyncronously, the services provided by the Sudoku_Server are procedural and use promises to run syncronously. The API is RESTful with exchange of data in JSON format and state plus authentication cached on clients. It implements various libraries, please see <a href="#acknowledgements">Acknowledgements</a> for details.
 
-The SudokuScores class used in Sudoku_Client is also used by Sudoku_Server.  The SudokuScores.bat script copies in the SudokuScores.js file from the Client area and wraps the necessary code to enable the class to function in Node.JS.
+The SudokuScores class used in Sudoku_Client is also used by Sudoku_Server.  The SudokuScores.bat script copies in the SudokuScores.js file from the Client area, naming it SudokuScoresModule.js, and wraps the necessary code to enable the class to function in Node.JS.
 
 <!-- GETTING STARTED -->
 
