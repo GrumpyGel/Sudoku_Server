@@ -72,13 +72,16 @@ Clone the repo
 
 The components listed in <a href="#acknowledgements">Acknowledgements</a> also require installation.
 
-Further information is required in this ReadMe for instruction on how to install these, configure the web server and how the HTTP hit to 'private.domain' is used to access database credentials and cryptography key securely.
+Further information is required in this ReadMe for instruction on how to install these and configure the web server.
 
 
 <!-- DOCUMENTATION -->
 ## Documentation
 
 The SudokuServer.js file contains embedded documentation.
+
+Further information is required in this ReadMe for instruction on how the HTTP hit to 'private.domain' is used to access database credentials and cryptography key securely.
+
 
 
 <!-- LICENSE -->
